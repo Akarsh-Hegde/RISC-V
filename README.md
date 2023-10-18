@@ -26,8 +26,6 @@ In this repository, you will find:
 
 To kickstart your journey into RISC-V CPU core design, simply explore the contents of this repository. The resources provided here will guide you through each step of the workshop. Enjoy your MYTH journey and the fascinating world of RISC-V CPU core design!
 
-This Course mainly covers Day 3 to 5. For details of Day1 and Day2 [click here](https://github.com/Pavan2280/pes_asic_class)
-
 <a name="top"></a>
   
 ##### This Repository Guides you to complete the RISC-V-BASED MYTH Course Assignments - Guided by Kunal Ghosh
