@@ -1,5 +1,38 @@
 # RISC-V
 
+> Welcome to the RISC-V CPU Core Design Workshop, known as MYTH (Microprocessor for You in Thirty Hours). This repository is your one-stop destination for all the information and resources you'll need to participate in this exciting 5-day workshop offered by VLSI System Design (VSD) in collaboration with Redwood EDA.
+
+## Overview
+
+> The MYTH workshop is an intensive program that guides you through the process of designing a RISC-V based CPU core. In just five days, you'll gain a deep understanding of the RISC-V Instruction Set Architecture (ISA) and implement a simplified RISC-V core with a fundamental instruction set. This repository holds the key to your success in the MYTH workshop.
+
+## Key Highlights
+
+- **RISC-V ISA Basics**: You will dive into the essentials of the RISC-V ISA, laying the foundation for core design.
+- **Five-Day Challenge**: In a remarkably short span of five days, you will take on the challenge of creating a RISC-V CPU core.
+- **Innovative Design Approach**: We leverage the power of Transaction Level Verilog (TL-Verilog) for a streamlined and efficient design process.
+- **Makerchip IDE Platform**: You will work with the Makerchip IDE platform, which provides a user-friendly environment for core development.
+
+## Contents
+
+In this repository, you will find:
+
+- **Workshop Materials**: Comprehensive resources, including presentations, documentation, and design guidelines.
+- **TL-Verilog Code**: Sample TL-Verilog code for RISC-V core design.
+- **Makerchip Setup**: Instructions on setting up the Makerchip IDE for your design work.
+- **Additional Resources**: Supplementary materials and links to deepen your understanding of RISC-V and core design.
+
+## Get Started
+
+To kickstart your journey into RISC-V CPU core design, simply explore the contents of this repository. The resources provided here will guide you through each step of the workshop. Enjoy your MYTH journey and the fascinating world of RISC-V CPU core design!
+
+This Course mainly covers Day 3 to 5. For details of Day1 and Day2 [click here](https://github.com/Pavan2280/pes_asic_class)
+
+<a name="top"></a>
+  
+##### This Repository Guides you to complete the RISC-V-BASED MYTH Course Assignments - Guided by Kunal Ghosh
+
+
 # Table of contents
 
 
@@ -563,7 +596,6 @@ For the consecutive labs, we will use the "RISC-V lab starting point code" from 
 
 Use the following links : [Link for the starter code](https://myth.makerchip.com/sandbox?code_url=https:%2F%2Fraw.githubusercontent.com%2Fstevehoover%2FRISC-V_MYTH_Workshop%2Fmaster%2Frisc-v_shell.tlv#)
 
-All the code files are located within the "DAY4" folder : [Link to DAY4 ](https://github.com/)
 
 #### Task-1 : Program Counter
 ```
